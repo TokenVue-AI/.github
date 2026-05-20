@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-light.png">
-    <img alt="TokenVue" src="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-light.png" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-dark.png">
+    <img alt="TokenVue" src="https://wjcuydizmrzhhegugsfn.supabase.co/storage/v1/object/public/TokenVue/logocomplete-dark.png" width="360">
   </picture>
 </p>
 
